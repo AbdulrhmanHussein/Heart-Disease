@@ -6,8 +6,9 @@ This project analyzes and predicts heart disease using a full ML pipeline: data 
 1. Data Preprocessing & Cleaning  
 2. Dimensionality Reduction (PCA)  
 3. Feature Selection  
-4. Supervised Learning Models  
-5. Model Evaluation  
+4. Supervised Learning Models
+5. Unsupervised Learning
+6. Model Evaluation  
 
 ## Tools Used
 - Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
